@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -82.1703,
+        "lat": 22.9792
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.43,
+        "feels_like": 299.43,
+        "temp_min": 299.43,
+        "temp_max": 299.43,
+        "pressure": 1020,
+        "humidity": 50,
+        "sea_level": 1020,
+        "grnd_level": 1005
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.01,
+        "deg": 66,
+        "gust": 8.67
+    },
+    "clouds": {
+        "all": 97
+    },
+    "dt": 1650553103,
+    "sys": {
+        "type": 2,
+        "id": 47732,
+        "country": "CU",
+        "sunrise": 1650538976,
+        "sunset": 1650585085
+    },
+    "timezone": -14400,
+    "id": 3556406,
+    "name": "Jamaica",
+    "cod": 200
+}
